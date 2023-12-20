@@ -1,7 +1,7 @@
 .format-background-image {
-    background-image: url(/assets/img/backgroundimage.jpg);
+    background-image: url(https://www.soundmaximum.com/wp-content/uploads/2020/06/no-time-to-die-piano-notes.jpeg);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: top center;
     background-size: cover;
     top: 0;
     height: 400px;
@@ -87,6 +87,7 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
     color: white;
+    font-style: italic;
 }
 
 .favorites {
